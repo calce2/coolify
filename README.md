@@ -1,3 +1,35 @@
+<!-- repository-overview:start -->
+## 📌 저장소 한눈에 보기
+
+**자가 서버용 앱·DB 배포 관리 플랫폼**
+
+| 구분 | 내용 |
+|---|---|
+| 분류 | 서버·접속·설치 |
+| 공개 범위 · 2026-10-09 확인 | 공개 |
+| 저장소 형태 | 외부 프로젝트 포크 |
+| 기본 브랜치 | `v4.x` |
+| 주요 구성 | PHP/Laravel 서버·관리 화면·Docker·스크립트 |
+
+### 주요 기능·내용
+
+- SSH 서버 연결
+- 애플리케이션·DB·컨테이너 관리
+- 서비스 템플릿·설치·업데이트
+
+원본 프로젝트: [coollabsio/coolify](https://github.com/coollabsio/coolify)
+
+### 바로 관리하기
+
+**[📝 설명·메모 수정](https://github.com/calce2/coolify/edit/v4.x/README.md) · [⚙️ 설정](https://github.com/calce2/coolify/settings) · [📦 보관 / 🗑️ 삭제 설정](https://github.com/calce2/coolify/settings#danger-zone)**
+
+보관·삭제 링크는 해당 저장소의 Settings → Danger Zone으로 이동합니다. 실행은 그 화면에서 선택하고 확인합니다.
+
+<sub>2026-10-09 작성 · 코드·문서를 기준으로 한 소개입니다. 공개 범위와 기능이 바뀌면 이 기록도 갱신하세요.</sub>
+<!-- repository-overview:end -->
+
+---
+
 <div align="center">
 
 # Coolify
